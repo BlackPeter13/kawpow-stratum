@@ -1,4 +1,4 @@
-ref-stratum-ravencoin
+KAWPoW-Stratum
 =====================
 
 KAWPoW Standalone implementation for using in a pool or solo minin.
