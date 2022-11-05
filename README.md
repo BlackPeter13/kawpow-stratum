@@ -60,7 +60,7 @@ const stratum = new MyStratum({
     host: "0.0.0.0",
     port: {
         number: 3010,
-        diff: 24
+        diff: 24 // Generally one share per 20-30 seconds is considered great. A good formula to start is hashrate in MHs*1.5
     },
     rpc: {
         host: '127.0.0.1',
